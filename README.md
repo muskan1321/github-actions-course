@@ -1,2 +1,2 @@
 # github-actions-course
-Repository containing all the examples and notes related to github-actions-corse
+Repository containing all the examples and notes related to github-actions-corse. This has been edited
